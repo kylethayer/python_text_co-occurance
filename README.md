@@ -5,7 +5,7 @@ This is an explained example of using python to find word co-occurrences in text
 
 1) Download the files in this repository into a new directory (unzipping it if needed). Do this by using the green button with the down arrow that says "Code".
 
-2) Download and install the Anaconda Distribution, which comes with Python and a code editor (called Spyder):
+2) Download and install the Anaconda Distribution, which comes with Python and a code editor (called Spyder). Or find or use some other python code editor:
 
 https://www.anaconda.com/distribution/
 
