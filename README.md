@@ -1,7 +1,7 @@
 # Explained Python text co-occurance calculator.
-This is an explained example of using python to find word co-occurrences in text (example uses Jane Austen novels). For example, you can find that the word "pride" co-occurs with "darcy" more than with "elizabeth".
+This is an explained example of using python to find word co-occurrences in text (example uses Jane Austen novels). For example, you can find that the word "pride" co-occurs with "darcy" more than with "elizabeth". You can look at [co-occurence.py](co-occurence.py) to see the code, or you can follow the instructions below to run it and modify it yourself.
 
-## Instructions
+## Instructions to run
 
 1) Download the files in this repository into a new directory (unzipping it if needed). Do this by using the green button with the down arrow that says "Code".
 
