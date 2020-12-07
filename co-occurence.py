@@ -150,7 +150,7 @@ word_occurances = occurances_by_sentence.toarray().sum(axis=0)
 word_cooccurances = (occurances_by_sentence.T * occurances_by_sentence)
 
 # output progress
-print("word occurances and coocrrances found")
+print("word occurances and cooccurances found")
 print()
 
 ###############################################################################
