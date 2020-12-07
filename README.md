@@ -9,7 +9,7 @@ This is an explained example of using python to find word co-occurrences in text
 
 https://www.anaconda.com/distribution/
 
-3) Open the Spyder code editor (screenshot shows opening Spyder on Windows
+3) Open the Spyder or some other python code editor (screenshot shows opening Spyder on Windows)
 
 <img alt="Finding and opening the Spyder program on Windows" src="/instructions-screenshots/open%20Spyder.png" width="400"/>
 
